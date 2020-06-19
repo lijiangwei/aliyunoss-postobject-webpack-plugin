@@ -1,8 +1,7 @@
 ##aliyunoss-postobject-webpack-plugin
 webpack 的插件，使用 PostObject 方式把生成的文件上传到阿里 oss
-Installation
 
----
+## Installation
 
 ```shell
 # npm
